@@ -1,5 +1,7 @@
 Hi,I'm Sinchana Santosh Naik Computer Science Engineering student at P A College of Engineering, Mangalore(2022-2026), currently holding a CGPA of 8.8.
 I am passionate about technology, problem solving, and building practical solutions that can make a real-world impact.
+                                     
+                                     
                                      My Expertise  
 -Data Analytics  
 -Web Development 
